@@ -1,0 +1,4 @@
+.Rproj*
+.RData
+# ignore shinyapps.io metadata, which might include sensitive info
+/demo/rsconnect
