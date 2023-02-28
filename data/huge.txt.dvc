@@ -1,0 +1,4 @@
+outs:
+- md5: f985bd12c1751fb6f203bd142bbe8655
+  size: 262144000
+  path: huge.txt
